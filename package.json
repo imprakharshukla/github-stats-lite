@@ -1,0 +1,9 @@
+{
+  "name": "github-stats-lite",
+  "version": "1.0.0",
+  "description": "Lightweight GitHub stats generator",
+  "main": "generate.js",
+  "scripts": {
+    "generate": "node generate.js"
+  }
+}
